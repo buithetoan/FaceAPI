@@ -1,0 +1,17 @@
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\FaceAPI.deps.json
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\FaceAPI.runtimeconfig.json
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\FaceAPI.runtimeconfig.dev.json
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\FaceAPI.dll
+D:\MyFace\FaceAPI\FaceAPI\obj\Debug\netcoreapp2.2\FaceAPI.csprojAssemblyReference.cache
+D:\MyFace\FaceAPI\FaceAPI\obj\Debug\netcoreapp2.2\FaceAPI.RazorAssemblyInfo.cache
+D:\MyFace\FaceAPI\FaceAPI\obj\Debug\netcoreapp2.2\FaceAPI.RazorAssemblyInfo.cs
+D:\MyFace\FaceAPI\FaceAPI\obj\Debug\netcoreapp2.2\FaceAPI.AssemblyInfoInputs.cache
+D:\MyFace\FaceAPI\FaceAPI\obj\Debug\netcoreapp2.2\FaceAPI.AssemblyInfo.cs
+D:\MyFace\FaceAPI\FaceAPI\obj\Debug\netcoreapp2.2\FaceAPI.RazorTargetAssemblyInfo.cache
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\FaceAPI.pdb
+D:\MyFace\FaceAPI\FaceAPI\obj\Debug\netcoreapp2.2\FaceAPI.dll
+D:\MyFace\FaceAPI\FaceAPI\obj\Debug\netcoreapp2.2\FaceAPI.pdb
+D:\MyFace\FaceAPI\FaceAPI\bin\Debug\netcoreapp2.2\Data\dataPerson.json
